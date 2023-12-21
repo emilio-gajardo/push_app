@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739358124481",
+    "project_id": "flutter-projects-19cdb",
+    "storage_bucket": "flutter-projects-19cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739358124481:android:158a0dd1946d16c58d2740",
+        "android_client_info": {
+          "package_name": "com.emiliogajardo.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChFZQ6X9XrD6ZlK2LjgtTHJFJd1SMCQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
